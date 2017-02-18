@@ -1,0 +1,6 @@
+F:\代码\C#\control-move\control-move\bin\Debug\control-move.exe.config
+F:\代码\C#\control-move\control-move\bin\Debug\control-move.exe
+F:\代码\C#\control-move\control-move\bin\Debug\control-move.pdb
+F:\代码\C#\control-move\control-move\obj\Debug\control-move.csprojResolveAssemblyReference.cache
+F:\代码\C#\control-move\control-move\obj\Debug\control-move.exe
+F:\代码\C#\control-move\control-move\obj\Debug\control-move.pdb
