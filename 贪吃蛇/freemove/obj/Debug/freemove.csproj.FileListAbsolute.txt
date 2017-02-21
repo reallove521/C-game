@@ -1,0 +1,6 @@
+F:\代码\C#\freemove\freemove\bin\Debug\freemove.exe.config
+F:\代码\C#\freemove\freemove\bin\Debug\freemove.exe
+F:\代码\C#\freemove\freemove\bin\Debug\freemove.pdb
+F:\代码\C#\freemove\freemove\obj\Debug\freemove.csprojResolveAssemblyReference.cache
+F:\代码\C#\freemove\freemove\obj\Debug\freemove.exe
+F:\代码\C#\freemove\freemove\obj\Debug\freemove.pdb
